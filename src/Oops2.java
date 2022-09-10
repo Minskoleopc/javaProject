@@ -41,9 +41,6 @@ public class Oops2 {
 		System.out.println(amol.country);
 		
 		
-		
-		
-		
 
 	}
 
