@@ -26,9 +26,6 @@ class PeronInfo implements Language {
 }
 
 
-
-
-
 // interface -----> restriction 
 // abstraction --- hiding 
 // class can be abstract?
