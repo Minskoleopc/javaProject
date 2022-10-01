@@ -1,4 +1,4 @@
-final class FinalClass {
+//final class FinalClass {
 //	
 //	public void display() {
 //		System.out.println("I am display method");
